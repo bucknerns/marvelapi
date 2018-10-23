@@ -5,7 +5,7 @@
 
 .. code:: ipython3
 
-    client = MarvelClient("http://gateway.marvel.com", "<api_key>", "<api_secrel>")
+    client = MarvelClient("http://gateway.marvel.com", "<api_key>", "<api_secret>")
 
 .. code:: ipython3
 
